@@ -1,0 +1,10 @@
+C:\Source\netcore.identityserver4.test\IdentityServer4Sample\bin\Debug\netcoreapp2.0\IdentityServer4Sample.deps.json
+C:\Source\netcore.identityserver4.test\IdentityServer4Sample\bin\Debug\netcoreapp2.0\IdentityServer4Sample.runtimeconfig.json
+C:\Source\netcore.identityserver4.test\IdentityServer4Sample\bin\Debug\netcoreapp2.0\IdentityServer4Sample.runtimeconfig.dev.json
+C:\Source\netcore.identityserver4.test\IdentityServer4Sample\bin\Debug\netcoreapp2.0\IdentityServer4Sample.dll
+C:\Source\netcore.identityserver4.test\IdentityServer4Sample\bin\Debug\netcoreapp2.0\IdentityServer4Sample.pdb
+C:\Source\netcore.identityserver4.test\IdentityServer4Sample\obj\Debug\netcoreapp2.0\IdentityServer4Sample.csproj.CoreCompileInputs.cache
+C:\Source\netcore.identityserver4.test\IdentityServer4Sample\obj\Debug\netcoreapp2.0\IdentityServer4Sample.AssemblyInfoInputs.cache
+C:\Source\netcore.identityserver4.test\IdentityServer4Sample\obj\Debug\netcoreapp2.0\IdentityServer4Sample.AssemblyInfo.cs
+C:\Source\netcore.identityserver4.test\IdentityServer4Sample\obj\Debug\netcoreapp2.0\IdentityServer4Sample.dll
+C:\Source\netcore.identityserver4.test\IdentityServer4Sample\obj\Debug\netcoreapp2.0\IdentityServer4Sample.pdb
